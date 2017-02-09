@@ -25,7 +25,7 @@
             <h1>Hygieia</h1>
             <nav>
                 <a href="index.html">Home</a>
-                <a href="newpatient.jsp">New Patient</a>
+                <a href="NewPatient.jsp">New Patient</a>
                 <a href="newstaff.html">New Staff</a>
                 <a href="search.html">Search</a>
             </nav>
